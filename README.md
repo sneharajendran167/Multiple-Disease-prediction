@@ -108,11 +108,11 @@ Scaler ensures model gets correct format.
 5.Result is shown with colors and icons for better readability.
 
 **Screenshots**
+<img width="1920" height="1080" alt="kidney" src="https://github.com/user-attachments/assets/069b87dd-2537-469d-9828-aff614e076e2" />
 
-![Liver Prediction](images/liver.png)
-![Kidney Prediction](images/kidney.png)
-![Parkinson Prediction](images/parkinson.png)
+<img width="1920" height="1080" alt="parkiston" src="https://github.com/user-attachments/assets/d4f80a14-215b-449a-bf65-caf7510bed86" />
 
+<img width="1920" height="1080" alt="liver" src="https://github.com/user-attachments/assets/dc5164dd-d014-4fcb-8578-d4aaf5bab5c4" />
 
 **Model Training Notebooks**
 
