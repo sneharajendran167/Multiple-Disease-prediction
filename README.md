@@ -1,4 +1,4 @@
-**Multiple Disease Prediction System**
+**#Multiple Disease Prediction System**
 
 This project is a Machine Learning–based Multiple Disease Prediction System built using Python, Scikit-learn, Streamlit, and Joblib.
 It allows users to input medical parameters and predict the likelihood of:
@@ -130,3 +130,7 @@ Parkinson- parkinson.ipynb
 ✔ Accuracy reports
 
 ✔ Saving models using joblib
+
+@ Contact: 📧 Email: sneharaje167@gmail.com
+
+🌐 LinkedIn: https://www.linkedin.com/in/sneha-rajendiran-2427651b7
