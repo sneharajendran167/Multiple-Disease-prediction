@@ -12,13 +12,21 @@ Parkinson Disease
 The goal is to create a simple, user-friendly, and interactive web interface where users can check disease predictions instantly.
 
 **Features**
+
 ✔ Predict 3 diseases using trained ML models
+
 ✔ Built with Streamlit for a fast and interactive UI
-✔ Uses multiple ML models (Logistic Regression, KNN, Decision Tree, Random Forest, Bagging, etc.)
+
+✔ Uses multiple ML models (Logistic Regression, KNN, Decision Tree, Random Forest, Bagging)
+
 ✔ Models saved using joblib
+
 ✔ Clean UI with disease-specific images
+
 ✔ All datasets preprocessed (scaling, encoding, missing value handling)
+
 ✔ Supports multiple user inputs dynamically
+
 ✔ Fast & offline predictions
 
 **Technologies Used**
