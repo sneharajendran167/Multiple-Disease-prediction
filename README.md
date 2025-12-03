@@ -1,4 +1,4 @@
-**#Multiple Disease Prediction System**
+# Multiple Disease prediction
 
 This project is a Machine Learning–based Multiple Disease Prediction System built using Python, Scikit-learn, Streamlit, and Joblib.
 It allows users to input medical parameters and predict the likelihood of:
