@@ -83,7 +83,7 @@ StandardScaler
 
 **How the Application Works**
 
-1. User selects Disease Type
+1.User selects Disease Type
 
 Liver
 
@@ -91,20 +91,21 @@ Kidney
 
 Parkinson
 
-2. User enters required medical parameters
+2.User enters required medical parameters
 
 Streamlit automatically generates input fields.
 
-3. Data is passed to the StandardScaler
+3.Data is passed to the StandardScaler
 
 Scaler ensures model gets correct format.
 
-4. The selected ML model predicts:
+4.The selected ML model predicts:
 
 🔴 Disease Present or
+
 🟢 No Disease
 
-5. Result is shown with colors and icons for better readability.
+5.Result is shown with colors and icons for better readability.
 
 **Screenshots**
 
