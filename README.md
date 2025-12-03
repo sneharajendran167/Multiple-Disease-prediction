@@ -140,6 +140,14 @@ Parkinson- parkinson.ipynb
 
 ✔ Saving models using joblib
 
+**Conclusion**
+
+The Multiple Disease Prediction System successfully demonstrates how Machine Learning can support early detection of critical health conditions such as Liver Disease, Kidney Disease, and Parkinson’s Disease. By integrating multiple ML models, real-world medical datasets, and an interactive Streamlit interface, this project provides a fast, reliable, and user-friendly solution for health risk assessment.
+
+The system allows users to enter medical parameters and instantly receive predictions using well-trained models, helping in early diagnosis, preventive care, and clinical decision support.
+
+Overall, this project proves that combining data science, machine learning, and healthcare domain knowledge can create impactful tools that contribute to improving human health and well-being.
+
 @ Contact: 📧 Email: sneharaje167@gmail.com
 
 🌐 LinkedIn: https://www.linkedin.com/in/sneha-rajendiran-2427651b7
